@@ -121,7 +121,7 @@
 | Certification | Issuing Organization | Date | Skills Gained | Verification |
 |---------------|----------------------|------|---------------|--------------|
 | **Python Internship** | Neoweb Software Technology | 27/05/2024-12/06/2024 | Python Programming, Software Development, Problem Solving | [www.neowep.com](http://www.neowep.com) / [www.neowep.in](http://www.neowep.in) |
-| **Certified Java Full-Stack Developer** | GUVI | July 2025 - September 2025 | Java, Spring Boot, React, MongoDB | In Progress |[www.guvi.in
+| **Certified Java Full-Stack Developer** | GUVI | July 2025 - September 2025 | Java, Spring Boot, React, MongoDB | In Progress |
 
 </div>
 
@@ -180,17 +180,17 @@
 > ✍️ *I write about my learning journey and technical challenges*
 
 1. **🚀 How I Built My Hotel Booking System Using Spring Boot and React**
-   - *Date: December 15, 2024*
+   - *Date: October 15, 2025*
    - *Coming Soon on my blog*
    - *Tags: #SpringBoot #React #FullStack*
 
 2. **📊 Getting Started with GitHub Profile README: A Complete Guide**
-   - *Date: December 10, 2024*
+   - *Date: October 10, 2025*
    - *Coming Soon on my blog*
    - *Tags: #GitHub #README #DeveloperProfile*
 
 3. **💡 5 Tips for Freshers Starting Their Development Journey in 2024**
-   - *Date: December 5, 2024*
+   - *Date: October 5, 2025*
    - *Coming Soon on my blog*
    - *Tags: #CareerAdvice #Freshers #Programming*
 
@@ -215,7 +215,7 @@
 | **Total Contributions** | 71+ | 🟢 Active Contributor |
 | **Public Repositories** | 8+ | 🟡 Growing Portfolio |
 | **Pull Requests** | 5+ | 🔵 Open to Collaboration |
-| **Issages Created** | 3+ | 🟠 Engaged in Problem Solving |
+| **Issues Created** | 3+ | 🟠 Engaged in Problem Solving |
 | **Stars Received** | 2+ | ⭐ Getting Recognition |
 
 ---
