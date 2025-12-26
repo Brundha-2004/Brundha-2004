@@ -77,10 +77,10 @@
 ---
 
 ### **2. 💰 Smart Spend Tracker** 
-[![GitHub Issues](https://img.shields.io/github/issues/Brundha-2004/spend-tracker?color=green)](https://github.com/Brundha-2004/spend-tracker)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Brundha-2004/spend-tracker)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Brundha-2004/spend-tracker)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Brundha-2004/spend-tracker)
+[![GitHub Issues](https://img.shields.io/github/issues/Brundha-2004/smartspend?color=green)](https://github.com/Brundha-2004/smartspend)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Brundha-2004/smartspend)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Brundha-2004/smartspend)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Brundha-2004/smartspend)
 
 **An intuitive expense tracking application** that helps users monitor spending habits with visual charts and budget planning tools.
 
@@ -91,7 +91,7 @@
 - 📥 Export data to CSV/PDF format
 - 📱 Progressive Web App (PWA) support
 
-**Status:** 🔄 **In Progress** (85% Complete) | [View Live Demo](https://brundha-2004.github.io/portfolio) | [View Source Code](https://github.com/Brundha-2004/spend-tracker)
+**Status:** 🔄 **In Progress** (85% Complete) | [View Live Demo](https://brundha-2004.github.io/portfolio) | [View Source Code](https://github.com/Brundha-2004/smartspend)
 
 ---
 
@@ -121,8 +121,7 @@
 | Certification | Issuing Organization | Date | Skills Gained | Verification |
 |---------------|----------------------|------|---------------|--------------|
 | **Python Internship** | Neoweb Software Technology | 27/05/2024-12/06/2024 | Python Programming, Software Development, Problem Solving | [www.neowep.com](http://www.neowep.com) / [www.neowep.in](http://www.neowep.in) |
-| **Certified Java Full-Stack Developer** | GUVI | July 2025 - September 2025 | Java, Spring Boot, React, MongoDB | In Progress |
-| **Full Stack Development** | HCL GUVI | Currently Pursuing | React, Spring Boot, MongoDB, AWS | - |
+| **Certified Java Full-Stack Developer** | GUVI | July 2025 - September 2025 | Java, Spring Boot, React, MongoDB | In Progress |[www.guvi.in
 
 </div>
 
